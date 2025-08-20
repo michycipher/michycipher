@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋, I’m Michelle (Michy)
 
-<!--
-**michycipher/michycipher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 **Frontend Developer** | React.js • Next.js • TypeScript • Tailwind CSS  
 
-Here are some ideas to get you started:
+💡 Passionate about building sleek, scalable, and user-friendly web apps.  
+🚀 Exploring performance optimization, UI patterns, and real-world product design.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux)
+
+---
+
+## 🌱 Currently Exploring
+- Advanced React performance optimization  
+- Scalable front-end architectures  
+- Open-source collaboration opportunities  
+
+---
+
+## 📫 Let’s Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/michelle-utomi/)  
+- 🐦 [Twitter](https://x.com/am_michelle)  
+- 🌐 [Portfolio website](https://michycipher.github.io/michelle-portfolio/)
+
+---
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MichelleUtomi&theme=radical)
+![Visitors](https://komarev.com/ghpvc/?username=MichelleUtomi&color=blue)
+
+✨ *“Always learning, always building.”* 🚀
