@@ -31,7 +31,7 @@
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MichelleUtomi&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=michycipher&theme=radical)
 ![Visitors](https://komarev.com/ghpvc/?username=MichelleUtomi&color=blue)
 
 ✨ *“Always learning, always building.”* 🚀
