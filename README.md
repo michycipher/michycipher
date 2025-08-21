@@ -17,15 +17,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=michycipher&label=Profile%20Views&color=blue&style=flat)  
-
-![Michy's GitHub stats](https://github-readme-stats.vercel.app/api?username=michycipher&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michycipher&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=michycipher&theme=radical)
-
----
-
 ## 🌱 Currently Exploring
 - Advanced React performance optimization  
 - Scalable front-end architectures  
