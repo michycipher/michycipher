@@ -30,8 +30,5 @@
 - 🌐 [Portfolio website](https://michycipher.github.io/michelle-portfolio/)
 
 ---
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=michycipher&theme=radical)
-![Visitors](https://komarev.com/ghpvc/?username=MichelleUtomi&color=blue)
-
+    
 ✨ *“Always learning, always building.”* 🚀
