@@ -26,9 +26,8 @@
 
 ## 📫 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/michelle-utomi/)  
-- 🐦 [Twitter](https://x.com/am_michelle)  
-- 🌐 [Portfolio website](https://michycipher.github.io/michelle-portfolio/)
-
+- 🐦 [Twitter](https://x.com/am_michelle)
+- 
 ---
     
 ✨ *“Always learning, always building.”* 🚀
