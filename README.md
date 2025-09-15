@@ -1,6 +1,6 @@
 # Hi there 👋, I’m Michelle (Michy)
 
-🌍 **Frontend Developer** | **Backend Developer** | React.js • Node.js • Next.js • TypeScript • Tailwind CSS  
+**Frontend Developer** || **Backend Developer** | React.js • Node.js • Next.js • TypeScript • Tailwind CSS  
 
 💡 Passionate about building sleek, scalable, and user-friendly web apps.  
 🚀 Exploring performance optimization, UI patterns, and real-world product design.  
