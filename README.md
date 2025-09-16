@@ -91,15 +91,20 @@ With a solid background in **frontend technologies** and a strong focus on writi
 ## 📊 GitHub Stats  
 <p align="center">
   <!-- Total Commits + PRs (Public + Private) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=michycipher&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&custom_title=Michelle%20Utomi%20GitHub%20Stats%20&theme=tokyonight" alt="michycipher github stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=michycipher&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&custom_title=Michelle%20Utomi%20GitHub%20Stats&theme=tokyonight" alt="michycipher github stats" height="180"/>
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michycipher&layout=compact&langs_count=8&theme=tokyonight" alt="top languages" height="180"/>
 </p>
 
 <p align="center">
-  <!-- Streak with year -->
+  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=michycipher&theme=tokyonight" alt="streak stats" height="180"/>
+</p>
+
+<p align="center">
+  <!-- Contributor Stats (better PR/Issues tracking across orgs) -->
+  <img src="https://github-contributor-stats.vercel.app/api?username=michycipher&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="contributor stats"/>
 </p>
 
 <p align="center">
