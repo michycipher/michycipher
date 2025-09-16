@@ -2,9 +2,12 @@
 
 ---
 
-## 🚀 About Me  
-I’m a **Frontend Developer** passionate about crafting modern, responsive, and user-friendly web applications.  
-I love building with **React, Next.js, TypeScript, TailwindCSS**, and exploring full-stack with **Node.js**.  
+## 👩‍💻 About Me  
+I'm Michy, a passionate and creative **Frontend Developer** with strong experience in building responsive, user-friendly, and modern web applications.  
+
+- 🔭 Currently working on personal and open-source projects to sharpen my frontend and fullstack skills  
+- 📚 Currently learning **advanced TypeScript, Redux Toolkit, and performance optimization** to build scalable applications  
+- ⚡ In my free time, I enjoy exploring new design trends, contributing to GitHub projects, and solving real-world problems with code  
 
 ---
 
