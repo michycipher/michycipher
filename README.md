@@ -42,7 +42,7 @@ With a solid background in **frontend technologies** and a strong focus on writi
 
   <!-- Next.js (white logo) -->
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">  
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px;"/>  
+    <img src="https://camo.githubusercontent.com/92ce1c051262bbe8c329848632e7ce3a5289de4c35182ae3d01ef1655f65c32b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6578746a732f6e6578746a732d6f726967696e616c2e737667" alt="nextjs" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px;"/>  
   </a>  
 
   <!-- Tailwind -->
@@ -62,7 +62,7 @@ With a solid background in **frontend technologies** and a strong focus on writi
 
   <!-- Express (inverted for dark bg) -->
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px;"/>  
+    <img src="https://techicons.dev/icons/express/svg/express.svg" alt="Express" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px;"/>  
   </a>  
 
   <!-- MongoDB -->
@@ -77,7 +77,7 @@ With a solid background in **frontend technologies** and a strong focus on writi
 
   <!-- Vercel (white logo) -->
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">  
-    <img src="https://assets.vercel.com/image/upload/v1662130559/front/favicon/vercel/180x180.png" alt="vercel" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px;"/>  
+    <img src="https://www.svgviewer.dev/s/488514/vercel-logo" alt="Vercel" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px;"/>  
   </a>  
 
   <!-- Netlify -->
@@ -101,18 +101,18 @@ With a solid background in **frontend technologies** and a strong focus on writi
 ---
 
 ## 🌐 Connect with Me  
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+
+<p align="center">
+  <a href="https://michycipher.github.io/michelle-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://twitter.com/YOUR-TWITTER" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/michelle-utomi-9827981b4/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:michycipher@gmail.com">
-    <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" alt="gmail" height="30" width="40" />
+  <a href="https://x.com/am_michelle" target="_blank">
+    <img src="https://img.shields.io/badge/TWITTER-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
----
 
 ⭐️ From [michycipher](https://github.com/michycipher)
