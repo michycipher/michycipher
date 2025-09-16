@@ -60,11 +60,10 @@ With a solid background in **frontend technologies** and a strong focus on writi
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px;"/>  
   </a>  
 
-  <!-- Express (inverted for dark bg) -->
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">  
-<!--     <img src="https://techicons.dev/icons/express/svg/express.svg" alt="Express" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px;"/>   -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px;"/>
-  </a>  
+ <!-- Express -->
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40" style="filter: invert(1);"/>  
+</a> 
 
   <!-- MongoDB -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">  
@@ -76,10 +75,10 @@ With a solid background in **frontend technologies** and a strong focus on writi
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  
   </a>  
 
-  <!-- Vercel (white logo) -->
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer">  
-    <img src="https://www.svgviewer.dev/s/488514/vercel-logo" alt="Vercel" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px;"/>  
-  </a>  
+ <!-- Vercel -->
+<a href="https://vercel.com/" target="_blank" rel="noreferrer">  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40"/>  
+</a>
 
   <!-- Netlify -->
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">  
@@ -92,7 +91,7 @@ With a solid background in **frontend technologies** and a strong focus on writi
 ## 📊 GitHub Stats  
 <p align="center">
   <!-- Total Commits + PRs (Public + Private) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=michycipher&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&custom_title=GitHub%20Stats%20(Public+Private)&theme=tokyonight" alt="michycipher github stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=michycipher&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&custom_title=Michelle%20Utomi%20GitHub%20Stats%20&theme=tokyonight" alt="michycipher github stats" height="180"/>
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michycipher&layout=compact&langs_count=8&theme=tokyonight" alt="top languages" height="180"/>
@@ -100,7 +99,7 @@ With a solid background in **frontend technologies** and a strong focus on writi
 
 <p align="center">
   <!-- Streak with year -->
-  <img src="https://streak-stats.demolab.com?user=michycipher&theme=tokyonight&date_format=M%20j%5B,%20Y%5D" alt="streak stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=michycipher&theme=tokyonight&date_format=%d%20%b%20%Y" alt="streak stats" height="180"/>
 </p>
 
 <p align="center">
