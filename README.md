@@ -92,22 +92,21 @@ With a solid background in **frontend technologies** and a strong focus on writi
 ## 📊 GitHub Stats  
 <p align="center">
   <!-- Total Commits + PRs (Public + Private) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=michycipher&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="michycipher github stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=michycipher&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&custom_title=GitHub%20Stats%20(Public+Private)&theme=tokyonight" alt="michycipher github stats" height="180"/>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michycipher&layout=compact&theme=tokyonight" alt="top languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michycipher&layout=compact&langs_count=8&theme=tokyonight" alt="top languages" height="180"/>
 </p>
 
 <p align="center">
   <!-- Streak with year -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=michycipher&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="streak stats" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=michycipher&theme=tokyonight&date_format=M%20j%5B,%20Y%5D" alt="streak stats" height="180"/>
 </p>
 
 <p align="center">
   <!-- Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=michycipher&label=Profile%20Views&color=blue&style=flat-square" alt="visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=michycipher&label=Visitors&color=1DA1F2&style=for-the-badge" alt="visitors"/>
 </p>
-
 
 ---
 
