@@ -100,10 +100,8 @@ With a solid background in **frontend technologies** and a strong focus on writi
 
 ---
 
-## 🌐 Connect with Me  
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Let's+Connect!;PORTFOLIO+|+LINKEDIN+|+TWITTER" alt="Typing SVG" />
+## <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=3000&color=36BCF7&center=true&vCenter=true&width=435&lines=Let's+Connect!;" alt="Typing SVG" />
 </p>
 
 <p align="center">
