@@ -25,50 +25,62 @@ With a solid background in **frontend technologies** and a strong focus on writi
 ## 🛠 Tools & Technologies  
 
 <p align="left">  
+  <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
   </a>  
 
+  <!-- TypeScript -->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">  
-    <img src="https://camo.githubusercontent.com/a07203131922e3fa0d6d0cd787edb5597771b30d712574bbc70a3c7aaa0161ea/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f747970657363726970742f747970657363726970742d6f726967696e616c2e737667" alt="typescript" width="40" height="40"/>  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>  
   </a>  
 
+  <!-- React (white wordmark for dark bg) -->
   <a href="https://react.dev/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px;"/>  
   </a>  
 
+  <!-- Next.js (white logo) -->
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">  
-    <img src="https://camo.githubusercontent.com/92ce1c051262bbe8c329848632e7ce3a5289de4c35182ae3d01ef1655f65c32b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e732f6e6578746a732f6e6578746a732d6f726967696e616c2e737667" alt="nextjs" width="40" height="40"/>  
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px;"/>  
   </a>  
 
+  <!-- Tailwind -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">  
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>  
   </a>  
 
+  <!-- Redux -->
   <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="redux" width="40" height="40"/>  
   </a>  
 
+  <!-- Node.js (white version) -->
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px;"/>  
   </a>  
 
+  <!-- Express (inverted for dark bg) -->
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px;"/>  
   </a>  
 
+  <!-- MongoDB -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>  
   </a>  
 
+  <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  
   </a>  
 
+  <!-- Vercel (white logo) -->
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vercel.svg" alt="vercel" width="40" height="40"/>  
+    <img src="https://assets.vercel.com/image/upload/v1662130559/front/favicon/vercel/180x180.png" alt="vercel" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px;"/>  
   </a>  
 
+  <!-- Netlify -->
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">  
     <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>  
   </a>  
