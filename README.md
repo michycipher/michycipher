@@ -99,7 +99,7 @@ With a solid background in **frontend technologies** and a strong focus on writi
 
 <p align="center">
   <!-- Streak with year -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=michycipher&theme=tokyonight&date_format=%d%20%b%20%Y" alt="streak stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=michycipher&theme=tokyonight" alt="streak stats" height="180"/>
 </p>
 
 <p align="center">
