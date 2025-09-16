@@ -63,7 +63,7 @@ With a solid background in **frontend technologies** and a strong focus on writi
   <!-- Express (inverted for dark bg) -->
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">  
 <!--     <img src="https://techicons.dev/icons/express/svg/express.svg" alt="Express" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px;"/>   -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px;"/>
   </a>  
 
   <!-- MongoDB -->
@@ -101,9 +101,7 @@ With a solid background in **frontend technologies** and a strong focus on writi
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=🌐+Connect+with+Me" alt="Typing SVG" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Let's+Connect!;" alt="Typing SVG" /> </p>
 
 <p align="center">
   <a href="https://michycipher.github.io/michelle-portfolio/" target="_blank">
