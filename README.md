@@ -98,8 +98,7 @@ With a solid background in **frontend technologies** and a strong focus on writi
 </p>
 
 <p align="center">
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=michycipher&theme=tokyonight" alt="streak stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=michycipher&theme=tokyonight" alt="streak stats" height="180"/>
 </p>
 
 <p align="center">
