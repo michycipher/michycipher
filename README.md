@@ -62,8 +62,10 @@ With a solid background in **frontend technologies** and a strong focus on writi
 
 <!-- Express -->
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">  
-  <img src="https://img.icons8.com/ios/50/000000/express-js.png" alt="Express" width="40" height="40" style="background-color◻️; border-radius:6px; padding:4px;"/>  
-</a>  
+  <div style="display:inline-block; background:white; border-radius:6px; padding:6px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="28" height="28"/>  
+  </div>
+</a> 
 
   <!-- MongoDB -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">  
@@ -77,8 +79,10 @@ With a solid background in **frontend technologies** and a strong focus on writi
 
 <!-- Vercel -->
 <a href="https://vercel.com/" target="_blank" rel="noreferrer">  
-  <img src="https://img.icons8.com/ios-filled/50/000000/vercel.png" alt="Vercel" width="40" height="40" style="background-color⬜; border-radius:6px; padding:4px;"/>  
-</a>  
+  <div style="display:inline-block; background:white; border-radius:6px; padding:6px;">
+    <img src="https://assets.vercel.com/image/upload/v1662130559/front/vercel/dps/logo-vercel.svg" alt="Vercel" width="28" height="28"/>  
+  </div>
+</a>
 
   <!-- Netlify -->
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">  
