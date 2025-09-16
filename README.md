@@ -62,7 +62,7 @@ With a solid background in **frontend technologies** and a strong focus on writi
 
  <!-- Express -->
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40" style="filter: invert(1); background-color:white;"/>  
+  <img src="https://camo.githubusercontent.com/83f74a3c9c4e24b5f90e2e7e5f7d6fce0a12bb5d27cd5e1fc8db7bf78490c71a/68747470733a2f2f63646e6a732e636c6f7564666c6172652e636f6d2f6173736574732f696d672f657870726573736a732d6c6f676f2e706e67" alt="Express" width="40" height="40"/>  
 </a> 
 
   <!-- MongoDB -->
@@ -77,7 +77,7 @@ With a solid background in **frontend technologies** and a strong focus on writi
 
  <!-- Vercel -->
 <a href="https://vercel.com/" target="_blank" rel="noreferrer">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40"/>  
+  <img src="https://camo.githubusercontent.com/771cc18a712bf9edb0925a86164c281979f6f74a3f34f92bce19e8f67c6e4d0c/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d616765732f636f6d6d6f6e2f76657263656c2d6c6f676f2e706e67" alt="Vercel" width="40" height="40"/>  
 </a>
 
   <!-- Netlify -->
