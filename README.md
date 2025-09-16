@@ -62,7 +62,7 @@ With a solid background in **frontend technologies** and a strong focus on writi
 
 <!-- Express -->
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">  
-  <img src="https://img.icons8.com/ios/50/000000/express-js.png" alt="Express" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px;"/>  
+  <img src="https://img.icons8.com/ios/50/000000/express-js.png" alt="Express" width="40" height="40" style="background-color◻️; border-radius:6px; padding:4px;"/>  
 </a>  
 
   <!-- MongoDB -->
@@ -77,7 +77,7 @@ With a solid background in **frontend technologies** and a strong focus on writi
 
 <!-- Vercel -->
 <a href="https://vercel.com/" target="_blank" rel="noreferrer">  
-  <img src="https://img.icons8.com/ios-filled/50/000000/vercel.png" alt="Vercel" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px;"/>  
+  <img src="https://img.icons8.com/ios-filled/50/000000/vercel.png" alt="Vercel" width="40" height="40" style="background-color⬜; border-radius:6px; padding:4px;"/>  
 </a>  
 
   <!-- Netlify -->
