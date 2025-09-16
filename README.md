@@ -91,13 +91,23 @@ With a solid background in **frontend technologies** and a strong focus on writi
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=michycipher&show_icons=true&theme=tokyonight" alt="michycipher github stats" height="180"/>
+  <!-- Total Commits + PRs (Public + Private) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=michycipher&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="michycipher github stats" height="180"/>
+
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michycipher&layout=compact&theme=tokyonight" alt="top languages" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=michycipher&theme=tokyonight" alt="streak stats" height="180"/>
+  <!-- Streak with year -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=michycipher&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="streak stats" height="180"/>
 </p>
+
+<p align="center">
+  <!-- Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=michycipher&label=Profile%20Views&color=blue&style=flat-square" alt="visitors"/>
+</p>
+
 
 ---
 
