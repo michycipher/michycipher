@@ -62,8 +62,8 @@ With a solid background in **frontend technologies** and a strong focus on writi
 
 <!-- Express -->
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">  
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>  
-</a>
+  <img src="https://img.shields.io/badge/Express.js-black?style=flat&logo=express&logoColor=white" alt="Express"/>  
+</a>  
 
   <!-- MongoDB -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">  
@@ -77,8 +77,8 @@ With a solid background in **frontend technologies** and a strong focus on writi
 
 <!-- Vercel -->
 <a href="https://vercel.com/" target="_blank" rel="noreferrer">  
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>  
-</a> 
+  <img src="https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel&logoColor=white" alt="Vercel"/>  
+</a>
 
   <!-- Netlify -->
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">  
