@@ -11,16 +11,67 @@ I'm Michy, a passionate and creative **Frontend Developer** with strong experien
 
 ---
 
-## 🛠 Languages and Tools  
-<p align="left">
-  <img src="https://camo.githubusercontent.com/426c1121b29abc64a6b1af1e3aa3091abb38e39c87054720b765af1425c74e7f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
+## 💼 Professional Skills  
+With a solid background in **frontend technologies** and a strong focus on writing clean, efficient, and maintainable code, I specialize in:  
+
+- 🚀 Building scalable, responsive, and user-friendly applications using **React, Next.js, and TailwindCSS**  
+- 💡 Proficient in **JavaScript, TypeScript, HTML, CSS**, and modern frontend libraries & frameworks  
+- 🔄 Version control & collaboration – Experienced with **Git/GitHub** and working in **agile development environments**  
+- ⚡ Skilled in **state management** with **Redux Toolkit** and implementing **REST APIs & WebSockets**  
+- 📚 Passionate about **continuous learning** – constantly exploring new tools, patterns, and best practices in frontend and fullstack development  
+
+---
+
+## 🛠 Tools & Technologies  
+
+<p align="left">  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
+  </a>  
+
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">  
+    <img src="https://camo.githubusercontent.com/a07203131922e3fa0d6d0cd787edb5597771b30d712574bbc70a3c7aaa0161ea/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f747970657363726970742f747970657363726970742d6f726967696e616c2e737667" alt="typescript" width="40" height="40"/>  
+  </a>  
+
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>  
+  </a>  
+
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">  
+    <img src="https://camo.githubusercontent.com/92ce1c051262bbe8c329848632e7ce3a5289de4c35182ae3d01ef1655f65c32b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e732f6e6578746a732f6e6578746a732d6f726967696e616c2e737667" alt="nextjs" width="40" height="40"/>  
+  </a>  
+
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">  
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>  
+  </a>  
+
+  <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">  
+    <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="redux" width="40" height="40"/>  
+  </a>  
+
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>  
+  </a>  
+
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>  
+  </a>  
+
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>  
+  </a>  
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  
+  </a>  
+
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">  
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vercel.svg" alt="vercel" width="40" height="40"/>  
+  </a>  
+
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">  
+    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>  
+  </a>  
 </p>
 
 ---
@@ -34,13 +85,6 @@ I'm Michy, a passionate and creative **Frontend Developer** with strong experien
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=michycipher&theme=tokyonight" alt="streak stats" height="180"/>
 </p>
-
----
-
-## 🌟 Featured Projects  
-- [School Management System](https://github.com/michycipher/school-management-system) – A complete frontend school management dashboard.  
-- [Cartolinks UI Clone](https://github.com/michycipher/cartolinks) – Pixel-perfect UI clone.  
-- [Blog App](https://github.com/michycipher/blog-app) – Blog platform with authentication & posts.  
 
 ---
 
