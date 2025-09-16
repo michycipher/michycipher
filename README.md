@@ -62,7 +62,7 @@ With a solid background in **frontend technologies** and a strong focus on writi
 
  <!-- Express -->
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40" style="filter: invert(1);"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40" style="filter: invert(1); background-color:white;"/>  
 </a> 
 
   <!-- MongoDB -->
