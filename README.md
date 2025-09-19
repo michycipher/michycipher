@@ -101,6 +101,7 @@ With a solid background in **frontend technologies** and a strong focus on writi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michycipher&layout=compact&langs_count=8&theme=tokyonight" alt="top languages" height="180"/>
 </p>
 
+<!-- Streak Stats -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=michycipher&theme=tokyonight" alt="streak stats" height="180"/>
 </p>
