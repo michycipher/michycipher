@@ -103,7 +103,7 @@ With a solid background in **frontend technologies** and a strong focus on writi
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=michycipher&theme=tokyonight" alt="streak stats" height="180"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=michycipher&theme=tokyonight" alt="streak stats"/>
 </p>
 
 <p align="center">
