@@ -41,7 +41,7 @@ With a solid background in **frontend technologies** and a strong focus on writi
 
   <!-- React (white wordmark for dark bg) -->
   <a href="https://react.dev/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px;"/>  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px;"/> 
   </a>  
 
   <!-- Next.js (white logo) -->
