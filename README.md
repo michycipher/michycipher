@@ -7,9 +7,9 @@
 ---
 
 ## 👩‍💻 About Me  
-I'm Michy, a passionate and creative **Frontend Developer** with strong experience in building responsive, user-friendly, and modern web applications.  
+I'm Michy, a **Frontend Developer** — just someone who likes figuring things out, one error message at a time. I build responsive, user-friendly, and modern web applications.
 
-- 🔭 Currently working on personal and open-source projects to sharpen my frontend and fullstack skills  
+- 🔭 Currently working on personal and open-source projects to sharpen my frontend and full-stack skills  
 - 📚 Currently learning **advanced TypeScript, Redux Toolkit, and performance optimization** to build scalable applications  
 - ⚡ In my free time, I enjoy exploring new design trends, contributing to GitHub projects, and solving real-world problems with code  
 
@@ -22,7 +22,7 @@ With a solid background in **frontend technologies** and a strong focus on writi
 - 💡 Proficient in **JavaScript, TypeScript, HTML, CSS**, and modern frontend libraries & frameworks  
 - 🔄 Version control & collaboration – Experienced with **Git/GitHub** and working in **agile development environments**  
 - ⚡ Skilled in **state management** with **Redux Toolkit** and implementing **REST APIs & WebSockets**  
-- 📚 Passionate about **continuous learning** – constantly exploring new tools, patterns, and best practices in frontend and fullstack development  
+- 📚 Passionate about **continuous learning** – constantly exploring new tools, patterns, and best practices in frontend and full-stack development  
 
 ---
 
