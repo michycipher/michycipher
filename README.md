@@ -7,7 +7,7 @@
 ---
 
 ## 👩‍💻 About Me  
-I'm Michy, a **Frontend Developer**. Just someone who likes figuring things out, one error message at a time. I build responsive, user-friendly, and modern web applications.
+I'm Michy, a **Frontend Developer**. Just someone who likes figuring things out, one error message at a time, building responsive, user-friendly, and modern web applications.
 
 - 🔭 Currently working on personal and open-source projects to sharpen my frontend and full-stack skills  
 - 📚 Currently learning **advanced TypeScript, Redux Toolkit, and performance optimization** to build scalable applications  
