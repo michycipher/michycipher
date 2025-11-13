@@ -19,7 +19,7 @@ I'm Michy, a **Frontend Developer**. Just someone who likes figuring things out,
 With a solid background in **frontend technologies** and a strong focus on writing clean, efficient, and maintainable code, I specialize in:  
 
 - 🚀 Building scalable, responsive, and user-friendly applications using **React, Next.js, and TailwindCSS**  
-- 💡 Proficient in **JavaScript, TypeScript, HTML, CSS**, and modern frontend libraries & frameworks  
+- 💡 Proficient in **JavaScript, TypeScript, Tailwind CSS**, and modern frontend libraries & frameworks  
 - 🔄 Version control & collaboration – Experienced with **Git/GitHub** and working in **agile development environments**  
 - ⚡ Skilled in **state management** with **Redux Toolkit** and implementing **REST APIs & WebSockets**  
 - 📚 Passionate about **continuous learning** – constantly exploring new tools, patterns, and best practices in frontend and full-stack development  
