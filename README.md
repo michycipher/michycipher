@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=5000&color=1E90FF&center=true&vCenter=true&width=750&lines=👋+Hi%2C+I%E2%80%99m+Michy)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1200&color=20C997&center=true&vCenter=true&width=750&lines=Mobile+App+%26+Frontend+Developer;React+%7C+React+Native+%7C+Next.js;Clean+Code+%2B+Creative+Design;Building+Scalable+%26+Responsive+Apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1200&color=20C997&center=true&vCenter=true&width=750&lines=Mobile+App+%26+Frontend+Developer;React+Native+%7C+React+%7C+Next.js;Vue.js+%7C+TypeScript+%7C+JavaScript;Building+Scalable+%26+Responsive+Apps;Clean+Code+%2B+Creative+Design)](https://git.io/typing-svg)
 
 ⚡ I love turning concepts into interactive experiences that make people go *“wow!”*
 
