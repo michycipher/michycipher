@@ -7,7 +7,7 @@
 ---
 
 ## 👩‍💻 About Me  
-Hey, I'm Michy, a **Mobile App & Frontend Developer** specializing in React Native, React, Vue.js, and TypeScript. I build scalable, user-friendly applications—solving problems one error message at a time.
+Hey, I'm Michy, a **Mobile & Web Developer** specializing in React Native, React, Vue.js, and TypeScript. I build scalable, user-friendly applications—solving problems one error message at a time.
 
 - 🔭 Currently working on personal and open-source projects to sharpen my frontend and full-stack skills  
 - 📚 Currently learning **advanced TypeScript, Redux Toolkit, and performance optimization** to build scalable applications  
@@ -18,7 +18,7 @@ Hey, I'm Michy, a **Mobile App & Frontend Developer** specializing in React Nati
 ## 💼 Professional Skills  
 With a solid background in **frontend technologies** and **Mobile Development**, a strong focus on writing clean, efficient, and maintainable code, I specialize in:  
 
-- 🚀 Building scalable, responsive, and user-friendly applications using **React, Next.js, and TailwindCSS**  
+- 🚀 Building scalable, responsive, and user-friendly applications using **React Nstive, React, Next.js, and TailwindCSS**  
 - 💡 Proficient in **JavaScript, TypeScript, Tailwind CSS**, and modern frontend libraries & frameworks  
 - 🔄 Version control & collaboration – Experienced with **Git/GitHub** and working in **agile development environments**  
 - ⚡ Skilled in **state management** with **Redux Toolkit** and implementing **REST APIs & WebSockets**  
