@@ -7,7 +7,7 @@
 ---
 
 ## 👩‍💻 About Me  
-Hey, I'm Michy, a **Mobile & Web Developer** specializing in React Native, React, Vue.js, and TypeScript. I build scalable, user-friendly applications—solving problems one error message at a time.
+Hey, I'm Michy, a **Mobile & Web Developer** specializing in React Native, React, Vue.js, and TypeScript. I build scalable, user-friendly applications, solving problems one error message at a time.
 
 - 🔭 Currently working on personal and open-source projects to sharpen my frontend and full-stack skills  
 - 📚 Currently learning **advanced TypeScript, Redux Toolkit, and performance optimization** to build scalable applications  
