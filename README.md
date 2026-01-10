@@ -116,7 +116,7 @@ With a solid background in **frontend technologies** and **Mobile Development**,
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Let's+Connect!;" alt="Typing SVG" /> </p>
 
 <p align="center">
-  <a href="https://michycipher.github.io/michelle-portfolio/" target="_blank">
+  <a href="https://michelle-utomi-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/michelle-utomi-9827981b4/" target="_blank">
