@@ -35,13 +35,14 @@ With a solid background in **frontend technologies** and **Mobile Development**,
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
   </a>  
 
- <!-- React Native -->
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react native" width="40" height="40"/>  
-  </a>
   <!-- Vue.js -->
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>  
+  </a>
+
+ <!-- React Native -->
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react native" width="40" height="40"/>  
   </a>
 
   <!-- TypeScript -->
