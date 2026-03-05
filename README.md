@@ -7,12 +7,12 @@
 ---
 
 ## 👩‍💻 About Me  
-Hey, I'm Michy, a **Mobile & Web Developer** specializing in React Native, React, Vue.js, and TypeScript. I build scalable, user-friendly applications, solving problems one error message at a time.
+Hey, I'm Michy, a **Mobile & Web Developer** specializing in React Native, React, Vue.js, and TypeScript. I build production-ready, user-friendly applications, solving problems one error message at a time.
 
-- 🔭 Building production-ready frontend and full-stack applications with React, React Native, Next.js, TypeScript, and Vue
-- 🧠 Applying advanced TypeScript, state management (Redux Toolkit, Pinia), Zod validation, and performance optimization
-- ⚙️ Shipping dashboards, admin panels, billing systems, real-time features, and scalable UI workflows
-- ⚡ Constantly refining UX, performance, and architecture through real-world projects and open source
+- 🔭 Building production-ready frontend and full-stack applications with React, React Native, Next.js, TypeScript, Vue and modern tools.
+- 🧠 Applying advanced TypeScript, state management (Redux Toolkit, Pinia), Zod validation, and performance optimization.
+- ⚙️ Shipping dashboards, admin panels, billing systems, real-time features, and scalable production UI workflows.
+- ⚡ Constantly refining UX, performance, and architecture through real-world projects and open source.
 
 ---
 
@@ -20,8 +20,8 @@ Hey, I'm Michy, a **Mobile & Web Developer** specializing in React Native, React
 With a solid background in **frontend technologies** and **Mobile Development**, a strong focus on writing clean, efficient, and maintainable code, I specialize in:  
 
 - 🚀 Building scalable, responsive, and user-friendly applications using **React Native, React, Next.js, and TailwindCSS**  
-- 💡 Proficient in **JavaScript, TypeScript, Tailwind CSS**, and modern frontend libraries & frameworks  
-- 🔄 Version control & collaboration – Experienced with **Git/GitHub** and working in **agile development environments**  
+- 💡 Proficient in **JavaScript, TypeScript, Tailwind CSS**, and modern frontend libraries, backend technology & frameworks  
+- 🔄 Version control & collaboration – Experienced with **Git/GitHub**, CI/CD Pipeline and working in **agile development environments**  
 - ⚡ Skilled in **state management** with **Redux Toolkit** and implementing **REST APIs & WebSockets**  
 - 📚 Passionate about **continuous learning** – constantly exploring new tools, patterns, and best practices in frontend and full-stack development  
 
