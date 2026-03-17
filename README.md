@@ -28,73 +28,99 @@ With a solid background in **frontend technologies** and **Mobile Development**,
 ---
 
 ## 🛠 Tools & Technologies  
-
 <p align="left">  
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
   </a>  
-
-  <!-- Vue.js -->
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>  
-  </a>
-
- <!-- React Native -->
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react native" width="40" height="40"/>  
-  </a>
-
   <!-- TypeScript -->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>  
   </a>  
-
-  <!-- React (white wordmark for dark bg) -->
+  <!-- Vue.js -->
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>  
+  </a>
+  <!-- Pinia -->
+  <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pinia/pinia-original.svg" alt="pinia" width="40" height="40"/>  
+  </a>
+  <!-- React -->
   <a href="https://react.dev/" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px;"/> 
   </a>  
-
-  <!-- Next.js (white logo) -->
+  <!-- React Native -->
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react native" width="40" height="40"/>  
+  </a>
+  <!-- Expo -->
+  <a href="https://expo.dev/" target="_blank" rel="noreferrer">  
+    <img src="https://img.shields.io/badge/Expo-000020?style=round&logo=expo&logoColor=white" alt="expo" height="40"/>  
+  </a>
+  <!-- Next.js -->
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">  
     <img src="https://camo.githubusercontent.com/92ce1c051262bbe8c329848632e7ce3a5289de4c35182ae3d01ef1655f65c32b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6578746a732f6e6578746a732d6f726967696e616c2e737667" alt="nextjs" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px;"/>  
   </a>  
-
+  <!-- Vite -->
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="vite" width="40" height="40"/>  
+  </a>
   <!-- Tailwind -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">  
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>  
   </a>  
-
   <!-- Redux -->
   <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="redux" width="40" height="40"/>  
   </a>  
-
-  <!-- Node.js (white version) -->
+  <!-- Node.js -->
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px;"/>  
   </a>  
-
-<!-- Express -->
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer">  
-  <img src="https://img.shields.io/badge/Express.js-black?style=round&logo=express&logoColor=white" alt="Express" width="100" height="100"/>  
-</a>  
-
+  <!-- Express -->
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">  
+    <img src="https://img.shields.io/badge/Express.js-black?style=round&logo=express&logoColor=white" alt="Express" height="40"/>  
+  </a>  
   <!-- MongoDB -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>  
   </a>  
-
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>  
+  </a>
+  <!-- Supabase -->
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer">  
+    <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/>  
+  </a>
+  <!-- Firebase -->
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">  
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>  
+  </a>
+  <!-- Prisma -->
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">  
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=round&logo=prisma&logoColor=white" alt="prisma" height="40"/>  
+  </a>
+ <!-- Convex -->
+  <a href="https://www.convex.dev/" target="_blank" rel="noreferrer">  
+    <img src="https://img.shields.io/badge/Convex-EE342F?style=round&logo=convex&logoColor=white" alt="convex" height="40"/>  
+  </a>
+  <!-- Figma -->
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">  
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>  
+  </a>
+  <!-- Postman -->
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">  
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>  
+  </a>
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  
   </a>  
-
-<!-- Vercel -->
-<a href="https://vercel.com/" target="_blank" rel="noreferrer">  
-  <img src="https://img.shields.io/badge/Vercel-black?style=round&logo=vercel&logoColor=white" alt="Vercel" width="100" height="100"/>  
-</a>
-
+  <!-- Vercel -->
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">  
+    <img src="https://img.shields.io/badge/Vercel-black?style=round&logo=vercel&logoColor=white" alt="Vercel" height="40"/>  
+  </a>
   <!-- Netlify -->
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">  
     <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>  
@@ -102,9 +128,10 @@ With a solid background in **frontend technologies** and **Mobile Development**,
 </p>
 
 ---
+
   ## 📊 GitHub Stats  
 <p align="center">
-    <!-- Total Commits + PRs (Public + Private) -->
+ <!-- Total Commits + PRs (Public + Private) -->
   <img src="https://github-readme-stats.vercel.app/api?username=michycipher&show_icons=true&include_all_commits=true&count_private=true&hide=issues&custom_title=Michelle%20Utomi%20GitHub%20Stats&theme=tokyonight" alt="michycipher github stats" height="180"/>
 </p>
 
