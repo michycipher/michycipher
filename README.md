@@ -160,10 +160,6 @@ With a solid background in **frontend technologies** and **Mobile Development**,
    <a href="https://www.linkedin.com/in/michelle-utomi-9827981b4/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
- <!--
-  <a href="https://x.com/am_michelle" target="_blank">
-    <img src="https://img.shields.io/badge/TWITTER-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a> -->
 </p>
 
 
