@@ -1,166 +1,250 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=5000&color=1E90FF&center=true&vCenter=true&width=750&lines=👋+Hi%2C+I%E2%80%99m+Michy)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=5000&color=1E90FF&center=true&vCenter=true&width=750&lines=👋+Hi%2C+I%E2%80%99m+Michy"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1200&color=20C997&center=true&vCenter=true&width=750&lines=Mobile+App+%26+Web+Developer;React+Native+%7C+React+%7C+Next.js;Vue.js+%7C+TypeScript+%7C+JavaScript;Building+Scalable+%26+Responsive+Apps;Clean+Code+%2B+Creative+Design)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1200&color=20C997&center=true&vCenter=true&width=750&lines=Mobile+App+%26+Web+Developer;React+Native+%7C+React+%7C+Next.js;Vue.js+%7C+TypeScript+%7C+JavaScript;Building+Scalable+%26+Responsive+Apps;Clean+Code+%2B+Creative+Design"
+      alt="Developer Stack"
+    />
+  </a>
+</p>
 
-⚡ I love turning concepts into interactive experiences that make people go *“wow!”*
-
----
-
-## 👩‍💻 About Me  
-Hey, I'm Michelle, a **Mobile & Web Developer** specializing in React Native, React, Vue.js, and TypeScript. I build production-ready, user-friendly applications and solving problems one error message at a time.
-
-- 🔭 Building production-ready frontend and full-stack applications with React, React Native, Next.js, TypeScript, Vue and modern tools.
-- 🧠 Applying advanced TypeScript, state management (Redux Toolkit, Pinia), Zod validation, and performance optimization.
-- ⚙️ Shipping dashboards, admin panels, billing systems, real-time features, and scalable production UI workflows.
-- ⚡ Constantly refining UX, performance, and architecture through real-world projects and open source.
-
----
-
-## 💼 Professional Skills  
-With a solid background in **frontend technologies** and **Mobile Development**, a strong focus on writing clean, efficient, and maintainable code, I specialize in:  
-
-- 🚀 Building scalable, responsive, and user-friendly applications using **React Native, React, Next.js, and TailwindCSS**  
-- 💡 Proficient in **JavaScript, TypeScript, Tailwind CSS**, and modern frontend libraries, backend technology & frameworks  
-- 🔄 Version control & collaboration – Experienced with **Git/GitHub**, CI/CD Pipeline and working in **agile development environments**  
-- ⚡ Skilled in **state management** with **Redux Toolkit** and implementing **REST APIs & WebSockets**  
-- 📚 Passionate about **continuous learning** – constantly exploring new tools, patterns, and best practices in frontend and full-stack development  
+<p align="center">
+  ⚡ I love turning concepts into interactive experiences that make people go <em>“wow!”</em>
+</p>
 
 ---
 
-## 🛠 Tools & Technologies  
-<p align="left">  
+## 👩‍💻 About Me
+
+Hey, I'm Michelle, a **Mobile & Web Developer** specializing in React Native, React, Vue.js, Next.js, and TypeScript. I build production-ready, user-friendly applications while solving problems one error message at a time.
+
+- 🔭 Building production-ready frontend and full-stack applications with **React, React Native, Next.js, TypeScript, Vue.js**, and modern tooling.
+- 🧠 Applying advanced **TypeScript, Redux Toolkit, Pinia, Zod validation**, and performance optimization.
+- ⚙️ Shipping **dashboards, admin panels, payment flows, real-time features, mobile applications**, and scalable production UI workflows.
+- ⚡ Constantly refining **UX, performance, architecture, and developer experience** through real-world projects and open-source work.
+
+---
+
+## 💼 Professional Skills
+
+With a strong background in **frontend engineering and mobile development**, and a focus on clean, efficient, and maintainable code, I specialize in:
+
+- 🚀 Building scalable, responsive, and user-friendly applications using **React Native, React, Vue.js, Next.js, and Tailwind CSS**
+- 💡 Working extensively with **JavaScript, TypeScript, REST APIs, WebSockets**, and modern frontend and backend technologies
+- 🔄 Version control and collaboration with **Git, GitHub, CI/CD pipelines**, and agile development workflows
+- ⚡ State management using **Redux Toolkit, Zustand, Pinia, and React Query**
+- 🔐 Building authenticated application flows, payment interfaces, API integrations, validation systems, and production-ready frontend architecture
+- 🧩 Backend development with **Node.js, Express.js, MongoDB, PostgreSQL, Prisma, Supabase**, and related tooling
+
+---
+
+## 🛠 Tools & Technologies
+
+<p align="left">
+
   <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
-  </a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+
   <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>  
-  </a>  
-  <!-- Vue.js -->
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>  
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
+
+  <!-- Vue -->
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
+  </a>
+
   <!-- Pinia -->
-  <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pinia/pinia-original.svg" alt="pinia" width="40" height="40"/>  
+  <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pinia/pinia-original.svg" alt="Pinia" width="40" height="40"/>
   </a>
+
   <!-- React -->
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px;"/> 
-  </a>  
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  </a>
+
   <!-- React Native -->
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react native" width="40" height="40"/>  
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Native" width="40" height="40"/>
   </a>
+
   <!-- Expo -->
-  <a href="https://expo.dev/" target="_blank" rel="noreferrer">  
-    <img src="https://img.shields.io/badge/Expo-000020?style=round&logo=expo&logoColor=white" alt="expo" height="40"/>  
+  <a href="https://expo.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" height="40"/>
   </a>
+
   <!-- Next.js -->
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">  
-    <img src="https://camo.githubusercontent.com/92ce1c051262bbe8c329848632e7ce3a5289de4c35182ae3d01ef1655f65c32b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6578746a732f6e6578746a732d6f726967696e616c2e737667" alt="nextjs" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px;"/>  
-  </a>  
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  </a>
+
   <!-- Vite -->
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="vite" width="40" height="40"/>  
+  <a href="https://vite.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
   </a>
+
   <!-- Tailwind -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>  
-  </a>  
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
+
   <!-- Redux -->
-  <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="redux" width="40" height="40"/>  
-  </a>  
-  <!-- Node.js -->
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px;"/>  
-  </a>  
+  <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux Toolkit" width="40" height="40"/>
+  </a>
+
+  <!-- Node -->
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+
   <!-- Express -->
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">  
-    <img src="https://img.shields.io/badge/Express.js-black?style=round&logo=express&logoColor=white" alt="Express" height="40"/>  
-  </a>  
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Express.js-ffffff?style=for-the-badge&logo=express&logoColor=000000" alt="Express.js" height="40"/>
+  </a>
+
   <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>  
-  </a>  
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+
   <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>  
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
+
   <!-- Supabase -->
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/>  
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40"/>
   </a>
+
   <!-- Firebase -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>  
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   </a>
+
   <!-- Prisma -->
-  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">  
-    <img src="https://img.shields.io/badge/Prisma-2D3748?style=round&logo=prisma&logoColor=white" alt="prisma" height="40"/>  
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Prisma-ffffff?style=for-the-badge&logo=prisma&logoColor=2D3748" alt="Prisma" height="40"/>
   </a>
- <!-- Convex -->
-  <a href="https://www.convex.dev/" target="_blank" rel="noreferrer">  
-    <img src="https://img.shields.io/badge/Convex-EE342F?style=round&logo=convex&logoColor=white" alt="convex" height="40"/>  
+
+  <!-- Convex -->
+  <a href="https://www.convex.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logoColor=white" alt="Convex" height="40"/>
   </a>
+
   <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>  
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
+
   <!-- Postman -->
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>  
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
+
   <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  
-  </a>  
-  <!-- Vercel -->
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer">  
-    <img src="https://img.shields.io/badge/Vercel-black?style=round&logo=vercel&logoColor=white" alt="Vercel" height="40"/>  
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
+
+  <!-- Vercel -->
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Vercel-ffffff?style=for-the-badge&logo=vercel&logoColor=000000" alt="Vercel" height="40"/>
+  </a>
+
   <!-- Netlify -->
-  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>  
-  </a>  
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="40"/>
+  </a>
+
 </p>
 
 ---
 
-  ## 📊 GitHub Stats  
+## 📊 GitHub Stats
+
+<!-- Contribution / Activity Graph -->
 <p align="center">
- <!-- Total Commits + PRs (Public + Private) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=michycipher&show_icons=true&include_all_commits=true&count_private=true&hide=issues&custom_title=Michelle%20Utomi%20GitHub%20Stats&theme=tokyonight" alt="michycipher github stats" height="180"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michycipher&theme=radical"
+    alt="Michelle Utomi GitHub Contribution Activity"
+    width="90%"
+  />
 </p>
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michycipher&layout=compact&langs_count=8&theme=tokyonight" alt="top languages" height="180"/>
+<!-- Stats + Most Used Languages -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=michycipher&theme=radical"
+    alt="Michelle Utomi GitHub Stats"
+    height="190"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=michycipher&theme=radical"
+    alt="Michelle Utomi Most Used Languages"
+    height="190"
+  />
 </p>
 
-<!-- Streak Stats -->
+<!-- GitHub Streak -->
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=michycipher&theme=tokyonight" alt="streak stats"/>
+  <img
+    src="https://streak-stats.demolab.com?user=michycipher&theme=radical&hide_border=false"
+    alt="Michelle Utomi GitHub Streak"
+    width="70%"
+  />
 </p>
 
+<!-- Visitors -->
 <p align="center">
-  <!-- Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=michycipher&label=Visitors&color=1DA1F2&style=for-the-badge" alt="visitors"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=michycipher&label=PROFILE+VISITORS&color=ff2e88&style=for-the-badge"
+    alt="Michelle Utomi Profile Visitors"
+  />
 </p>
 
 ---
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Let's+Connect!;" alt="Typing SVG" /> </p>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=36BCF7&center=true&vCenter=true&width=435&lines=Let's+Connect!"
+    alt="Let's Connect"
+  />
+</p>
 
 <p align="center">
   <a href="https://michelle-utomi-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7"
+      alt="Portfolio"
+    />
   </a>
-   <a href="https://www.linkedin.com/in/michelle-utomi-9827981b4/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  <a href="https://www.linkedin.com/in/michelle-utomi-9827981b4/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://x.com/am_michelle" target="_blank">
+    <img
+      src="https://img.shields.io/badge/TWITTER%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white"
+      alt="Twitter / X"
+    />
   </a>
 </p>
-
-
-
