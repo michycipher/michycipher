@@ -176,10 +176,10 @@ With a strong background in **frontend engineering and mobile development**, and
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Rank / C+ Stats -->
+<!-- GitHub Rank / C+ Card -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=michycipher&show_icons=true&include_all_commits=true&show=prs_merged,reviews&theme=radical&hide_border=false&rank_icon=default"
+    src="https://github-readme-stats.vercel.app/api?username=michycipher&show_icons=true&include_all_commits=true&show=prs_merged,reviews&theme=radical&hide_border=false&rank_icon=default&custom_title=Michelle%20Utomi%20GitHub%20Stats"
     alt="Michelle Utomi GitHub Stats"
     width="55%"
   />
@@ -187,7 +187,7 @@ With a strong background in **frontend engineering and mobile development**, and
 
 <br/>
 
-<!-- Contribution Activity -->
+<!-- Contribution Activity Graph -->
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michycipher&theme=radical"
@@ -198,11 +198,11 @@ With a strong background in **frontend engineering and mobile development**, and
 
 <br/>
 
-<!-- GitHub Stats + Most Used Languages -->
+<!-- Yearly Stats + Most Used Languages -->
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=michycipher&theme=radical"
-    alt="Michelle Utomi GitHub Stats"
+    alt="Michelle Utomi Yearly GitHub Stats"
     width="44%"
   />
   &nbsp;&nbsp;
@@ -233,7 +233,7 @@ With a strong background in **frontend engineering and mobile development**, and
     alt="Michelle Utomi Profile Visitors"
   />
 </p>
----
+
 
 <p align="center">
   <img
