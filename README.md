@@ -1,20 +1,6 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=5000&color=1E90FF&center=true&vCenter=true&width=750&lines=👋+Hi%2C+I%E2%80%99m+Michy"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=5000&color=1E90FF&center=true&vCenter=true&width=750&lines=👋+Hi%2C+I%E2%80%99m+Michy)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1200&color=20C997&center=true&vCenter=true&width=750&lines=Mobile+App+%26+Web+Developer;React+Native+%7C+React+%7C+Next.js;Vue.js+%7C+TypeScript+%7C+JavaScript;Building+Scalable+%26+Responsive+Apps;Clean+Code+%2B+Creative+Design"
-      alt="Developer Stack"
-    />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1200&color=20C997&center=true&vCenter=true&width=750&lines=Mobile+App+%26+Web+Developer;React+Native+%7C+React+%7C+Next.js;Vue.js+%7C+TypeScript+%7C+JavaScript;Building+Scalable+%26+Responsive+Apps;Clean+Code+%2B+Creative+Design)](https://git.io/typing-svg)
 
 <p align="center">
   ⚡ I love turning concepts into interactive experiences that make people go <em>“wow!”</em>
