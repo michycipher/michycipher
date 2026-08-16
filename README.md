@@ -176,7 +176,18 @@ With a strong background in **frontend engineering and mobile development**, and
 
 ## 📊 GitHub Stats
 
-<!-- Contribution / Activity Graph -->
+<!-- GitHub Rank / C+ Stats -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=michycipher&show_icons=true&include_all_commits=true&show=prs_merged,reviews&theme=radical&hide_border=false&rank_icon=default"
+    alt="Michelle Utomi GitHub Stats"
+    width="55%"
+  />
+</p>
+
+<br/>
+
+<!-- Contribution Activity -->
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michycipher&theme=radical"
@@ -185,38 +196,43 @@ With a strong background in **frontend engineering and mobile development**, and
   />
 </p>
 
-<!-- Stats + Most Used Languages -->
+<br/>
+
+<!-- GitHub Stats + Most Used Languages -->
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=michycipher&theme=radical"
     alt="Michelle Utomi GitHub Stats"
-    height="190"
+    width="44%"
   />
-
+  &nbsp;&nbsp;
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=michycipher&theme=radical"
     alt="Michelle Utomi Most Used Languages"
-    height="190"
+    width="44%"
   />
 </p>
+
+<br/>
 
 <!-- GitHub Streak -->
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=michycipher&theme=radical&hide_border=false"
     alt="Michelle Utomi GitHub Streak"
-    width="70%"
+    width="60%"
   />
 </p>
+
+<br/>
 
 <!-- Visitors -->
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=michycipher&label=PROFILE+VISITORS&color=ff2e88&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=michycipher&label=PROFILE%20VISITORS&color=ff2e88&style=for-the-badge"
     alt="Michelle Utomi Profile Visitors"
   />
 </p>
-
 ---
 
 <p align="center">
