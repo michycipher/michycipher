@@ -162,18 +162,33 @@ With a strong background in **frontend engineering and mobile development**, and
 
 ## 📊 GitHub Stats
 
+<!-- C+ GitHub Rank Card -->
+<p align="center">
+  <img
+    src="./profile/github-rank.svg"
+    alt="Michelle Utomi GitHub Rank Card"
+    width="58%"
+  />
+</p>
+
+<br/>
+
+<!-- Contribution / Activity Graph -->
 <p align="center">
   <img
     src="./profile-summary-card-output/radical/0-profile-details.svg"
-    alt="Michelle Utomi GitHub Contribution Graph"
+    alt="Michelle Utomi GitHub Contribution Activity Graph"
     width="90%"
   />
 </p>
 
+<br/>
+
+<!-- Total Commits 2026 + Most Used Languages -->
 <p align="center">
   <img
     src="./profile-summary-card-output/radical/3-stats.svg"
-    alt="Michelle Utomi GitHub Stats"
+    alt="Michelle Utomi Total Commits 2026"
     width="44%"
   />
   &nbsp;&nbsp;
@@ -184,6 +199,20 @@ With a strong background in **frontend engineering and mobile development**, and
   />
 </p>
 
+<br/>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img
+    src="./profile/streak.svg"
+    alt="Michelle Utomi GitHub Streak"
+    width="60%"
+  />
+</p>
+
+<br/>
+
+<!-- Visitor Counter -->
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=michycipher&label=PROFILE%20VISITORS&color=ff2e88&style=for-the-badge"
