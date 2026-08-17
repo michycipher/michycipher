@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  github-profile-summary:
+  profile-summary-cards:
     runs-on: ubuntu-latest
 
     steps:
@@ -29,7 +29,7 @@ jobs:
 
   github-rank-card:
     runs-on: ubuntu-latest
-    needs: github-profile-summary
+    needs: profile-summary-cards
 
     steps:
       - name: Checkout repository
@@ -41,11 +41,12 @@ jobs:
       - name: Generate C+ GitHub rank card
         uses: readme-tools/github-readme-stats-action@v1
         with:
+          card: stats
           token: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
-          username: michycipher
           path: profile/github-rank.svg
-          query: >-
-            show_icons=true
+          options: >-
+            username=michycipher
+            &show_icons=true
             &include_all_commits=true
             &show=prs_merged,reviews
             &theme=radical
@@ -59,6 +60,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/github-rank.svg
           git commit -m "chore: update GitHub rank stats" || exit 0
+          git pull --rebase origin main
           git push
 
   github-streak:
@@ -77,7 +79,10 @@ jobs:
         with:
           token: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
           path: profile/streak.svg
-          options: user=michycipher&theme=radical&hide_border=false
+          options: >-
+            user=michycipher
+            &theme=radical
+            &hide_border=false
 
       - name: Commit generated streak card
         run: |
@@ -85,4 +90,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/streak.svg
           git commit -m "chore: update GitHub streak stats" || exit 0
+          git pull --rebase origin main
           git push
