@@ -178,13 +178,17 @@ With a strong background in **frontend engineering and mobile development**, and
   <img
     src="./profile-summary-card-output/radical/0-profile-details.svg"
     alt="Michelle Utomi GitHub Contribution Activity Graph"
-    width="90%"
+    width="92%"
   />
 </p>
 
 <br/>
 
 <!-- Total Commits 2026 + Most Used Languages -->
+<p align="center">
+  <strong>Total Commits (2026) &nbsp; • &nbsp; Most Used Languages</strong>
+</p>
+
 <p align="center">
   <img
     src="./profile-summary-card-output/radical/3-stats.svg"
@@ -193,7 +197,7 @@ With a strong background in **frontend engineering and mobile development**, and
   />
   &nbsp;&nbsp;
   <img
-    src="./profile-summary-card-output/radical/2-most-commit-language.svg"
+    src="./profile/most-used-languages.svg"
     alt="Michelle Utomi Most Used Languages"
     width="44%"
   />
@@ -206,7 +210,7 @@ With a strong background in **frontend engineering and mobile development**, and
   <img
     src="./profile/streak.svg"
     alt="Michelle Utomi GitHub Streak"
-    width="60%"
+    width="62%"
   />
 </p>
 
