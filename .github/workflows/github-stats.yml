@@ -1,0 +1,88 @@
+name: GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  profile-summary-cards:
+    runs-on: ubuntu-latest
+    name: Generate profile summary cards
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: michycipher
+          BRANCH_NAME: main
+          UTC_OFFSET: 1
+          AUTO_PUSH: true
+          THEME: radical
+          ANIMATION: sequence
+          DURATION: 2
+          NAME: Michelle Utomi
+
+  rank-and-streak:
+    runs-on: ubuntu-latest
+    name: Generate rank and streak cards
+    needs: profile-summary-cards
+
+    steps:
+      - name: Checkout latest repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Pull latest changes from summary cards
+        run: git pull origin main
+
+      - name: Create profile folder
+        run: mkdir -p profile
+
+      - name: Generate C+ GitHub rank card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          token: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+          path: profile/github-rank.svg
+          fail_on_error: true
+          options: >-
+            username=michycipher
+            &show_icons=true
+            &include_all_commits=true
+            &count_private=true
+            &show=prs_merged,reviews
+            &theme=radical
+            &hide_border=false
+            &rank_icon=default
+            &custom_title=Michelle%20Utomi%20GitHub%20Stats
+
+      - name: Generate GitHub streak card
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          token: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+          path: profile/streak.svg
+          options: >-
+            user=michycipher
+            &theme=radical
+            &hide_border=false
+
+      - name: Commit generated rank and streak cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/github-rank.svg profile/streak.svg
+
+          git commit -m "chore: update GitHub stats cards" || exit 0
+          git pull --rebase origin main
+          git push
