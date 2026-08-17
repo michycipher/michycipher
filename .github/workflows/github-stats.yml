@@ -9,15 +9,15 @@ permissions:
   contents: write
 
 jobs:
-  profile-summary-cards:
+  build:
     runs-on: ubuntu-latest
-    name: Generate profile summary cards
+    name: Generate GitHub profile stats
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate profile summary cards
+      - name: Generate contribution graph and yearly stats
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
@@ -25,25 +25,11 @@ jobs:
           USERNAME: michycipher
           BRANCH_NAME: main
           UTC_OFFSET: 1
-          AUTO_PUSH: true
+          AUTO_PUSH: false
           THEME: radical
           ANIMATION: sequence
           DURATION: 2
           NAME: Michelle Utomi
-
-  rank-and-streak:
-    runs-on: ubuntu-latest
-    name: Generate rank and streak cards
-    needs: profile-summary-cards
-
-    steps:
-      - name: Checkout latest repository
-        uses: actions/checkout@v4
-        with:
-          ref: main
-
-      - name: Pull latest changes from summary cards
-        run: git pull origin main
 
       - name: Create profile folder
         run: mkdir -p profile
@@ -55,34 +41,31 @@ jobs:
           token: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
           path: profile/github-rank.svg
           fail_on_error: true
-          options: >-
-            username=michycipher
-            &show_icons=true
-            &include_all_commits=true
-            &count_private=true
-            &show=prs_merged,reviews
-            &theme=radical
-            &hide_border=false
-            &rank_icon=default
-            &custom_title=Michelle%20Utomi%20GitHub%20Stats
+          options: '{"username":"michycipher","show_icons":true,"include_all_commits":true,"count_private":true,"theme":"radical","hide_border":false,"rank_icon":"default","custom_title":"Michelle Utomi GitHub Stats"}'
+
+      - name: Generate Most Used Languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          token: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+          path: profile/most-used-languages.svg
+          fail_on_error: true
+          options: '{"username":"michycipher","layout":"compact","langs_count":8,"theme":"radical","hide_border":false,"custom_title":"Most Used Languages"}'
 
       - name: Generate GitHub streak card
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
           token: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
           path: profile/streak.svg
-          options: >-
-            user=michycipher
-            &theme=radical
-            &hide_border=false
+          options: user=michycipher&theme=radical&hide_border=false
 
-      - name: Commit generated rank and streak cards
+      - name: Commit generated stats
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add profile/github-rank.svg profile/streak.svg
+          git add profile github-profile-summary-card-output profile-summary-card-output || true
 
-          git commit -m "chore: update GitHub stats cards" || exit 0
+          git commit -m "chore: update GitHub profile stats" || exit 0
           git pull --rebase origin main
           git push
