@@ -221,6 +221,7 @@ With a strong background in **frontend engineering and mobile development**, and
 </p>
 
 
+
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=36BCF7&center=true&vCenter=true&width=435&lines=Let's+Connect!"
