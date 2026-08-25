@@ -163,13 +163,13 @@ With a strong background in **frontend engineering and mobile development**, and
 ## 📊 GitHub Stats
 
 <!-- C+ GitHub Rank Card -->
-<p align="center">
+<!-- <p align="center">
   <img
     src="./profile/github-rank.svg"
     alt="Michelle Utomi GitHub Rank Card"
     width="58%"
   />
-</p>
+</p> -->
 
 <br/>
 
