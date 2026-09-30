@@ -70,13 +70,13 @@ With a strong background in **frontend engineering and mobile development**, and
 </p>
 
 <p align="center">
-  <strong>Total Commits (2026) &nbsp; • &nbsp; Top Languages by Repo</strong>
+  <strong>Total Commits (2026) &nbsp; • &nbsp; Languages & Tools</strong>
 </p>
 
 <p align="center">
   <img src="./profile-summary-card-output/radical/3-stats.svg" alt="Michelle Utomi Total Commits 2026" width="44%" />
   &nbsp;&nbsp;
-  <img src="./profile-summary-card-output/radical/1-repos-per-language.svg" alt="Michelle Utomi Top Languages by Repo" width="44%" />
+  <img src="./profile/most-used-languages.svg" alt="Michelle Utomi Languages & Tools" width="44%" />
 </p>
 
 <p align="center">
