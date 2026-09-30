@@ -1,6 +1,8 @@
 name: GitHub Stats
 
 on:
+  push:
+    branches: [main]
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
@@ -43,14 +45,68 @@ jobs:
           fail_on_error: true
           options: '{"username":"michycipher","show_icons":true,"include_all_commits":true,"count_private":true,"theme":"radical","hide_border":false,"rank_icon":"default","custom_title":"Michelle Utomi GitHub Stats"}'
 
-      - name: Generate Most Used Languages card
-        uses: stats-organization/github-readme-stats-action@v2
+      - name: Generate GitHub activity health card
+        uses: actions/github-script@v7
         with:
-          card: top-langs
-          token: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
-          path: profile/most-used-languages.svg
-          fail_on_error: true
-          options: '{"username":"michycipher","layout":"compact","langs_count":8,"theme":"radical","hide_border":false,"custom_title":"Most Used Languages"}'
+          github-token: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          script: |
+            const login = "michycipher";
+            const to = new Date();
+            const from = new Date(to.getTime() - 365 * 24 * 60 * 60 * 1000);
+            const query = [
+              "query($login: String!, $from: DateTime!, $to: DateTime!) {",
+              "  user(login: $login) {",
+              "    contributionsCollection(from: $from, to: $to) {",
+              "      totalCommitContributions",
+              "      totalPullRequestContributions",
+              "      totalIssueContributions",
+              "      totalRepositoriesWithContributedCommits",
+              "      contributionCalendar { totalContributions }",
+              "    }",
+              "    repositories(ownerAffiliations: OWNER, privacy: PUBLIC, first: 1) { totalCount }",
+              "  }",
+              "}"
+            ].join("\\n");
+            const data = await github.graphql(query, {
+              login,
+              from: from.toISOString(),
+              to: to.toISOString()
+            });
+            const contributions = data.user.contributionsCollection;
+            const totalContributions = contributions.contributionCalendar.totalContributions;
+            const commits = contributions.totalCommitContributions;
+            const pullRequests = contributions.totalPullRequestContributions;
+            const issues = contributions.totalIssueContributions;
+            const repos = data.user.repositories.totalCount;
+            const clamp = (value, max) => Math.min(value / max, 1);
+            const score = Math.round(100 * (
+              clamp(totalContributions, 1500) * 0.50 +
+              clamp(commits, 1500) * 0.20 +
+              clamp(pullRequests, 250) * 0.20 +
+              clamp(repos, 100) * 0.10
+            ));
+            const grade = score >= 90 ? "A+" : score >= 85 ? "A" : score >= 75 ? "B+" : score >= 65 ? "B" : score >= 55 ? "B-" : score >= 45 ? "C" : score >= 30 ? "D" : "F";
+            const esc = (value) => String(value).replace(/[&<>\"']/g, (char) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&apos;" }[char]));
+            const row = (y, label, value, color) => "<g><circle cx='24' cy='" + y + "' r='5' fill='" + color + "'/><text x='40' y='" + (y + 5) + "' fill='#CBD5E1' font-family='Segoe UI, Ubuntu, sans-serif' font-size='13'>" + esc(label) + "</text><text x='270' y='" + (y + 5) + "' fill='#FFFFFF' font-family='Segoe UI, Ubuntu, sans-serif' font-size='13' font-weight='600' text-anchor='end'>" + esc(value) + "</text></g>";
+            const svg = [
+              "<svg xmlns='http://www.w3.org/2000/svg' width='560' height='260' viewBox='0 0 560 260' role='img' aria-labelledby='title desc'>",
+              "<title id='title'>GitHub activity health grade " + esc(grade) + "</title>",
+              "<desc id='desc'>Automated activity grade based on GitHub contributions, commits, pull requests, and public repositories over the last year.</desc>",
+              "<rect x='1' y='1' width='558' height='258' rx='10' fill='#0D1117' stroke='#30363D'/>",
+              "<text x='24' y='34' fill='#8B5CF6' font-family='Segoe UI, Ubuntu, sans-serif' font-size='20' font-weight='600'>GitHub Activity Health</text>",
+              row(70, "Contributions (last year)", totalContributions, "#22D3EE"),
+              row(104, "Commits (last year)", commits, "#8B5CF6"),
+              row(138, "Pull requests", pullRequests, "#F59E0B"),
+              row(172, "Issues", issues, "#F97316"),
+              row(206, "Public repositories", repos, "#22C55E"),
+              "<circle cx='445' cy='137' r='52' fill='none' stroke='#30233F' stroke-width='8'/>",
+              "<circle cx='445' cy='137' r='52' fill='none' stroke='#EC4899' stroke-width='8' stroke-linecap='round' stroke-dasharray='" + (Math.max(score, 2) * 3.267) + " 400' transform='rotate(-90 445 137)'/>",
+              "<text x='445' y='144' fill='#FFFFFF' font-family='Segoe UI, Ubuntu, sans-serif' font-size='28' font-weight='700' text-anchor='middle'>" + esc(grade) + "</text>",
+              "<text x='445' y='166' fill='#94A3B8' font-family='Segoe UI, Ubuntu, sans-serif' font-size='12' text-anchor='middle'>" + score + "/100</text>",
+              "<text x='445' y='218' fill='#94A3B8' font-family='Segoe UI, Ubuntu, sans-serif' font-size='11' text-anchor='middle'>updated by GitHub Actions</text>",
+              "</svg>"
+            ].join("");
+            require("fs").writeFileSync("profile/health-grade.svg", svg);
 
       - name: Generate GitHub streak card
         uses: DenverCoder1/github-readme-streak-stats@main
