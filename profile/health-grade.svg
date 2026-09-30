@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img" aria-labelledby="title desc">
   <title id="title">GitHub activity health grade B-</title>
-  <desc id="desc">Automated activity grade based on GitHub contributions, commits, pull requests, and public repositories over the last year.</desc>
+  <desc id="desc">Automated activity grade based on GitHub contributions, commits, pull requests, and public repositories in the current year.</desc>
   <rect x="1" y="1" width="558" height="258" rx="10" fill="#0D1117" stroke="#30363D"/>
   <text x="24" y="34" fill="#8B5CF6" font-family="Segoe UI, Ubuntu, sans-serif" font-size="20" font-weight="600">GitHub Activity Health</text>
   <g font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#CBD5E1">
-    <g><circle cx="24" cy="70" r="5" fill="#22D3EE"/><text x="40" y="75">Contributions (last year)</text><text x="270" y="75" fill="#FFFFFF" font-weight="600" text-anchor="end">823</text></g>
-    <g><circle cx="24" cy="104" r="5" fill="#8B5CF6"/><text x="40" y="109">Commits (last year)</text><text x="270" y="109" fill="#FFFFFF" font-weight="600" text-anchor="end">921</text></g>
+    <g><circle cx="24" cy="70" r="5" fill="#22D3EE"/><text x="40" y="75">Contributions (current year)</text><text x="270" y="75" fill="#FFFFFF" font-weight="600" text-anchor="end">823</text></g>
+    <g><circle cx="24" cy="104" r="5" fill="#8B5CF6"/><text x="40" y="109">Commits (current year)</text><text x="270" y="109" fill="#FFFFFF" font-weight="600" text-anchor="end">921</text></g>
     <g><circle cx="24" cy="138" r="5" fill="#F59E0B"/><text x="40" y="143">Pull requests</text><text x="270" y="143" fill="#FFFFFF" font-weight="600" text-anchor="end">132</text></g>
     <g><circle cx="24" cy="172" r="5" fill="#F97316"/><text x="40" y="177">Issues</text><text x="270" y="177" fill="#FFFFFF" font-weight="600" text-anchor="end">1</text></g>
     <g><circle cx="24" cy="206" r="5" fill="#22C55E"/><text x="40" y="211">Public repositories</text><text x="270" y="211" fill="#FFFFFF" font-weight="600" text-anchor="end">86</text></g>
