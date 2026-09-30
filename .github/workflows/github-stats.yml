@@ -52,7 +52,7 @@ jobs:
           script: |
             const login = "michycipher";
             const to = new Date();
-            const from = new Date(to.getTime() - 365 * 24 * 60 * 60 * 1000);
+            const from = new Date(to.getFullYear(), 0, 1);
             const query = [
               "query($login: String!, $from: DateTime!, $to: DateTime!) {",
               "  user(login: $login) {",
@@ -91,11 +91,11 @@ jobs:
             const svg = [
               "<svg xmlns='http://www.w3.org/2000/svg' width='560' height='260' viewBox='0 0 560 260' role='img' aria-labelledby='title desc'>",
               "<title id='title'>GitHub activity health grade " + esc(grade) + "</title>",
-              "<desc id='desc'>Automated activity grade based on GitHub contributions, commits, pull requests, and public repositories over the last year.</desc>",
+              "<desc id='desc'>Automated activity grade based on GitHub contributions, commits, pull requests, and public repositories in the current year.</desc>",
               "<rect x='1' y='1' width='558' height='258' rx='10' fill='#0D1117' stroke='#30363D'/>",
               "<text x='24' y='34' fill='#8B5CF6' font-family='Segoe UI, Ubuntu, sans-serif' font-size='20' font-weight='600'>GitHub Activity Health</text>",
-              row(70, "Contributions (last year)", totalContributions, "#22D3EE"),
-              row(104, "Commits (last year)", commits, "#8B5CF6"),
+              row(70, "Contributions (current year)", totalContributions, "#22D3EE"),
+              row(104, "Commits (current year)", commits, "#8B5CF6"),
               row(138, "Pull requests", pullRequests, "#F59E0B"),
               row(172, "Issues", issues, "#F97316"),
               row(206, "Public repositories", repos, "#22C55E"),
