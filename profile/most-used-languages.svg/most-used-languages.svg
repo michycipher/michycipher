@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="200" viewBox="0 0 340 200" role="img" aria-labelledby="title desc">
+  <title id="title">Languages and tools I use</title>
+  <desc id="desc">TypeScript, JavaScript, Java, Vue.js, React, React Native, Next.js, and Node.js.</desc>
+  <rect x="1" y="1" width="338" height="198" rx="8" fill="#141321" stroke="#24203b" />
+  <text x="24" y="34" fill="#8B5CF6" font-family="Segoe UI, Ubuntu, sans-serif" font-size="21" font-weight="600">Languages &amp; Tools</text>
+  <g font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" fill="#CBD5E1">
+    <g><rect x="18" y="50" width="145" height="28" rx="7" fill="#1d1930"/><circle cx="31" cy="64" r="5" fill="#3178C6"/><text x="43" y="68">TypeScript</text></g>
+    <g><rect x="177" y="50" width="145" height="28" rx="7" fill="#1d1930"/><circle cx="190" cy="64" r="5" fill="#F1E05A"/><text x="202" y="68">JavaScript</text></g>
+    <g><rect x="18" y="84" width="145" height="28" rx="7" fill="#1d1930"/><circle cx="31" cy="98" r="5" fill="#ED8B00"/><text x="43" y="102">Java</text></g>
+    <g><rect x="177" y="84" width="145" height="28" rx="7" fill="#1d1930"/><circle cx="190" cy="98" r="5" fill="#42B883"/><text x="202" y="102">Vue.js</text></g>
+    <g><rect x="18" y="118" width="145" height="28" rx="7" fill="#1d1930"/><circle cx="31" cy="132" r="5" fill="#61DAFB"/><text x="43" y="136">React</text></g>
+    <g><rect x="177" y="118" width="145" height="28" rx="7" fill="#1d1930"/><circle cx="190" cy="132" r="5" fill="#61DAFB"/><text x="202" y="136">React Native</text></g>
+    <g><rect x="18" y="152" width="145" height="28" rx="7" fill="#1d1930"/><circle cx="31" cy="166" r="5" fill="#CBD5E1"/><text x="43" y="170">Next.js</text></g>
+    <g><rect x="177" y="152" width="145" height="28" rx="7" fill="#1d1930"/><circle cx="190" cy="166" r="5" fill="#68A063"/><text x="202" y="170">Node.js</text></g>
+  </g>
+</svg>
