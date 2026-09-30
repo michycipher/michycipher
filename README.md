@@ -96,3 +96,16 @@ With a strong background in **frontend engineering and mobile development**, and
   <a href="https://www.linkedin.com/in/michelle-utomi-9827981b4/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/am_michelle" target="_blank"><img src="https://img.shields.io/badge/TWITTER%20%2F%20X-111827?style=for-the-badge&logo=x&logoColor=22D3EE" alt="Twitter / X" /></a>
 </p>
+
+
+---
+
+## 🩺 GitHub Activity Health
+
+<p align="center">
+  <img src="./profile/health-grade.svg" alt="Michelle Utomi GitHub Activity Health Grade" width="72%" />
+</p>
+
+<p align="center">
+  <sub>Automatically recalculated from GitHub activity by GitHub Actions.</sub>
+</p>
