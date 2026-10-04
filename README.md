@@ -87,7 +87,7 @@ With a strong background in **frontend engineering and mobile development**, and
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=michycipher&label=PROFILE%20VISITORS&color=8B5CF6&style=for-the-badge" alt="Michelle Utomi Profile Visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=michycipher.michycipher&style=for-the-badge&left_text=PROFILE%20VISITORS&left_color=111827&right_color=8B5CF6" alt="Michelle Utomi Profile Visitors" />
 </p>
 
 <p align="center">
