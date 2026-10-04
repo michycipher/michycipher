@@ -76,12 +76,14 @@ jobs:
             const commits = contributions.totalCommitContributions;
             const pullRequests = contributions.totalPullRequestContributions;
             const issues = contributions.totalIssueContributions;
-            const publicRepos = await github.paginate(github.rest.repos.listForUser, {
-              username: login,
-              type: "owner",
-              per_page: 100
+            const publicProfileResponse = await fetch(`https://api.github.com/users/${login}`, {
+              headers: { "User-Agent": "michycipher-profile-stats" }
             });
-            const repos = publicRepos.filter((repo) => !repo.private).length;
+            if (!publicProfileResponse.ok) {
+              throw new Error(`GitHub public profile request failed: ${publicProfileResponse.status}`);
+            }
+            const publicProfile = await publicProfileResponse.json();
+            const repos = publicProfile.public_repos;
             const clamp = (value, max) => Math.min(value / max, 1);
             const score = Math.round(100 * (
               clamp(totalContributions, 1500) * 0.50 +
