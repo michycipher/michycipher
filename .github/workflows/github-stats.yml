@@ -76,19 +76,14 @@ jobs:
             const commits = contributions.totalCommitContributions;
             const pullRequests = contributions.totalPullRequestContributions;
             const issues = contributions.totalIssueContributions;
-            const publicRepositories = [];
-            for (let page = 1; ; page += 1) {
-              const publicReposResponse = await fetch(`https://api.github.com/users/${login}/repos?type=owner&per_page=100&page=${page}`, {
-                headers: { "User-Agent": "michycipher-profile-stats" }
-              });
-              if (!publicReposResponse.ok) {
-                throw new Error(`GitHub public repositories request failed: ${publicReposResponse.status}`);
-              }
-              const pageRepositories = await publicReposResponse.json();
-              publicRepositories.push(...pageRepositories);
-              if (pageRepositories.length < 100) break;
+            const publicReposResponse = await fetch(`https://api.github.com/search/repositories?q=user%3A${login}%20fork%3Atrue&per_page=1`, {
+              headers: { "User-Agent": "michycipher-profile-stats" }
+            });
+            if (!publicReposResponse.ok) {
+              throw new Error(`GitHub public repository search failed: ${publicReposResponse.status}`);
             }
-            const repos = publicRepositories.filter((repo) => !repo.private).length;
+            const publicReposSearch = await publicReposResponse.json();
+            const repos = publicReposSearch.total_count;
             const clamp = (value, max) => Math.min(value / max, 1);
             const score = Math.round(100 * (
               clamp(totalContributions, 1500) * 0.50 +
