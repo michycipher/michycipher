@@ -77,17 +77,12 @@ jobs:
             const pullRequests = contributions.totalPullRequestContributions;
             const issues = contributions.totalIssueContributions;
             const cacheBuster = Date.now();
-            const publicProfileResponse = await fetch(`https://github.com/${login}?tab=repositories&type=public&profile_stats=${cacheBuster}`, {
-              headers: {
-                "User-Agent": "michycipher-profile-stats",
-                "Accept": "text/html",
-                "Cache-Control": "no-cache"
-              }
-            });
-            if (!publicProfileResponse.ok) {
-              throw new Error(`GitHub public profile request failed: ${publicProfileResponse.status}`);
-            }
-            const publicProfileHtml = await publicProfileResponse.text();
+            const { execFileSync } = require("child_process");
+            const publicProfileHtml = execFileSync("curl", [
+              "--fail", "--location", "--silent", "--show-error",
+              "--header", "User-Agent: michycipher-profile-stats",
+              `https://github.com/${login}?tab=repositories&type=public&profile_stats=${cacheBuster}`
+            ], { encoding: "utf8" });
             const publicReposMatch = publicProfileHtml.match(/Repositories\s*<span title="(\d+)"/);
             if (!publicReposMatch) {
               throw new Error("Could not read the public repository counter from the GitHub profile");
