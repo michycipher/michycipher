@@ -76,8 +76,12 @@ jobs:
             const commits = contributions.totalCommitContributions;
             const pullRequests = contributions.totalPullRequestContributions;
             const issues = contributions.totalIssueContributions;
-            const profile = await github.rest.users.getByUsername({ username: login });
-            const repos = profile.data.public_repos;
+            const publicRepos = await github.paginate(github.rest.repos.listForUser, {
+              username: login,
+              type: "owner",
+              per_page: 100
+            });
+            const repos = publicRepos.filter((repo) => !repo.private).length;
             const clamp = (value, max) => Math.min(value / max, 1);
             const score = Math.round(100 * (
               clamp(totalContributions, 1500) * 0.50 +
