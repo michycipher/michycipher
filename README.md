@@ -64,32 +64,27 @@ With a strong background in **frontend engineering and mobile development**, and
 
 ---
 
-## 📊 GitHub Activity & Health
+## 📊 GitHub Stats & Health
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=michycipher&show_icons=true&include_all_commits=true&count_private=false&theme=github_dark&hide_border=true&custom_title=GitHub%20Activity%20(live)&title_color=8B5CF6&text_color=CBD5E1&icon_color=22D3EE&bg_color=0D1117&card_width=520" alt="Michelle Utomi live GitHub activity graph" width="76%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michycipher&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=400&title_color=8B5CF6&text_color=CBD5E1&bg_color=0D1117" alt="Michelle Utomi live languages and tools" width="46%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michycipher&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=430&title_color=8B5CF6&text_color=CBD5E1&bg_color=0D1117" alt="Michelle Utomi live languages and tools" width="58%" />
+  <img src="./profile/health-grade.svg" alt="Michelle Utomi current-year GitHub activity health grade" width="46%" />
 </p>
 
 <p align="center">
-  <img src="./profile/health-grade.svg" alt="Michelle Utomi current-year GitHub activity health grade" width="58%" />
+  <sub>Health grade is automatically recalculated hourly from current-year GitHub activity by GitHub Actions.</sub>
 </p>
 
 <p align="center">
-  <sub>Health grade is automatically recalculated from current-year GitHub activity by GitHub Actions.</sub>
+  <img src="https://streak-stats.demolab.com?user=michycipher&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8&stroke=30363D&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Michelle Utomi live GitHub streak" width="44%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=michycipher&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8&stroke=30363D&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Michelle Utomi live GitHub streak" width="55%" />
+  <img src="https://komarev.com/ghpvc/?username=michycipher&label=PROFILE%20VISITORS&color=8B5CF6&style=for-the-badge" alt="Michelle Utomi Profile Visitors" />
 </p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=michycipher.michycipher&style=for-the-badge&left_text=PROFILE%20VISITORS&left_color=111827&right_color=8B5CF6" alt="Michelle Utomi Profile Visitors" />
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=22D3EE&center=true&vCenter=true&width=435&lines=Let's+Connect!" alt="Let's Connect" />
 </p>
