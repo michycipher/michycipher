@@ -67,7 +67,7 @@ With a strong background in **frontend engineering and mobile development**, and
 ## 📊 GitHub Activity & Health
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=michycipher&bg_color=0D1117&color=CBD5E1&line=8B5CF6&point=22D3EE&area_color=8B5CF6&area=true&hide_border=true&custom_title=GitHub%20Activity%20(live)&radius=8&height=220" alt="Michelle Utomi live GitHub activity graph" width="76%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=michycipher&show_icons=true&include_all_commits=true&count_private=false&theme=github_dark&hide_border=true&custom_title=GitHub%20Activity%20(live)&title_color=8B5CF6&text_color=CBD5E1&icon_color=22D3EE&bg_color=0D1117&card_width=520" alt="Michelle Utomi live GitHub activity graph" width="76%" />
 </p>
 
 <p align="center">
