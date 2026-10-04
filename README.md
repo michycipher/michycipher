@@ -67,15 +67,15 @@ With a strong background in **frontend engineering and mobile development**, and
 ## 📊 GitHub Activity & Health
 
 <p align="center">
-  <img src="./profile-summary-card-output/radical/0-profile-details.svg" alt="Michelle Utomi GitHub Contribution Activity Graph" width="92%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=michycipher&bg_color=0D1117&color=CBD5E1&line=8B5CF6&point=22D3EE&area_color=8B5CF6&area=true&hide_border=true&custom_title=GitHub%20Activity%20(live)&radius=8&height=220" alt="Michelle Utomi live GitHub activity graph" width="76%" />
 </p>
 
 <p align="center">
-  <img src="./profile/most-used-languages.svg" alt="Michelle Utomi Languages & Tools" width="72%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michycipher&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=430&title_color=8B5CF6&text_color=CBD5E1&bg_color=0D1117" alt="Michelle Utomi live languages and tools" width="58%" />
 </p>
 
 <p align="center">
-  <img src="./profile/health-grade.svg" alt="Michelle Utomi Current-Year GitHub Activity Health Grade" width="72%" />
+  <img src="./profile/health-grade.svg" alt="Michelle Utomi current-year GitHub activity health grade" width="58%" />
 </p>
 
 <p align="center">
@@ -83,7 +83,7 @@ With a strong background in **frontend engineering and mobile development**, and
 </p>
 
 <p align="center">
-  <img src="./profile/streak.svg" alt="Michelle Utomi GitHub Streak" width="62%" />
+  <img src="https://streak-stats.demolab.com?user=michycipher&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8&stroke=30363D&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Michelle Utomi live GitHub streak" width="55%" />
 </p>
 
 <p align="center">
