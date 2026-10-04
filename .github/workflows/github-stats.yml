@@ -63,7 +63,6 @@ jobs:
               "      totalRepositoriesWithContributedCommits",
               "      contributionCalendar { totalContributions }",
               "    }",
-              "    repositories(ownerAffiliations: OWNER, privacy: PUBLIC, first: 1) { totalCount }",
               "  }",
               "}"
             ].join("\n");
@@ -77,7 +76,8 @@ jobs:
             const commits = contributions.totalCommitContributions;
             const pullRequests = contributions.totalPullRequestContributions;
             const issues = contributions.totalIssueContributions;
-            const repos = data.user.repositories.totalCount;
+            const profile = await github.rest.users.getByUsername({ username: login });
+            const repos = profile.data.public_repos;
             const clamp = (value, max) => Math.min(value / max, 1);
             const score = Math.round(100 * (
               clamp(totalContributions, 1500) * 0.50 +

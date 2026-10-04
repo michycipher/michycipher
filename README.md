@@ -67,11 +67,11 @@ With a strong background in **frontend engineering and mobile development**, and
 ## 📊 GitHub Stats & Health
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michycipher&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=400&title_color=8B5CF6&text_color=CBD5E1&bg_color=0D1117" alt="Michelle Utomi live languages and tools" width="46%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michycipher&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=500&title_color=8B5CF6&text_color=CBD5E1&bg_color=0D1117" alt="Michelle Utomi live languages and tools" width="500" />
 </p>
 
 <p align="center">
-  <img src="./profile/health-grade.svg" alt="Michelle Utomi current-year GitHub activity health grade" width="46%" />
+  <img src="./profile/health-grade.svg" alt="Michelle Utomi current-year GitHub activity health grade" width="560" />
 </p>
 
 <p align="center">
@@ -79,11 +79,11 @@ With a strong background in **frontend engineering and mobile development**, and
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=michycipher&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8&stroke=30363D&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Michelle Utomi live GitHub streak" width="44%" />
+  <img src="https://streak-stats.demolab.com?user=michycipher&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8&stroke=30363D&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Michelle Utomi live GitHub streak" width="495" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=michycipher&label=PROFILE%20VISITORS&color=8B5CF6&style=for-the-badge" alt="Michelle Utomi Profile Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=michycipher&label=PROFILE+VISITORS&color=ff2e88&style=for-the-badge" alt="Michelle Utomi Profile Visitors" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=22D3EE&center=true&vCenter=true&width=435&lines=Let's+Connect!" alt="Let's Connect" />
