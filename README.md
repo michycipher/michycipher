@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About Me
 
-Software Engineer building production systems across fintech, AI, web and mobile from complex React/Next.js interfaces to APIs, payments, real-time workflows and backend integrations. I build production-ready, user-friendly applications while solving problems one error message at a time.
+Software Engineer building production systems across fintech, AI, web and mobile from complex React/Next.js interfaces to APIs, payments integration, real-time workflows and backend integrations. I build production-ready, user-friendly applications while solving problems one error message at a time.
 
 - 🔭 Building production-ready frontend and full-stack applications with **React, React Native, Next.js, TypeScript, Vue.js**, and modern tooling.
 - 🧠 Applying advanced **TypeScript, Redux Toolkit, Pinia, Zod validation**, and performance optimization.
