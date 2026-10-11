@@ -79,7 +79,11 @@ With a strong background in **frontend engineering and mobile development**, and
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=michycipher&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8&stroke=30363D&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Michelle Utomi live GitHub streak" width="495" />
+  <img src="./profile/streak.svg" alt="Michelle Utomi verified all-time GitHub contributions and streak" width="495" />
+</p>
+
+<p align="center">
+  <sub>All-time contributions include previous years. <a href="./profile/contributions.md">View the verified year-by-year totals</a>. Refreshed hourly by GitHub Actions.</sub>
 </p>
 
 <p align="center">

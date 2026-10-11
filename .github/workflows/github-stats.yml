@@ -23,8 +23,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Test health card generation
-        run: node --test tests/health-card.test.cjs
+      - name: Test profile statistics
+        run: node --test tests/*.test.cjs
 
       - name: Generate contribution graph and yearly stats
         uses: vn7n24fzkq/github-profile-summary-cards@release
@@ -123,9 +123,18 @@ jobs:
       - name: Generate GitHub streak card
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          token: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+          token: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           path: profile/streak.svg
           options: user=michycipher&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8&stroke=30363D&currStreakNum=FFFFFF&sideNums=FFFFFF
+
+      - name: Verify all-time contributions against every year
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          script: |
+            const { audit } = require('./scripts/audit-contributions.cjs');
+            const result = await audit({ github, login: 'michycipher' });
+            core.info(`Verified all-time contributions: ${result.total}`);
 
       - name: Commit generated stats
         run: |
