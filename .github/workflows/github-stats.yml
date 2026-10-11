@@ -7,6 +7,10 @@ on:
     - cron: "0 * * * *"
   workflow_dispatch:
 
+concurrency:
+  group: github-profile-stats
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -18,6 +22,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: Test health card generation
+        run: node --test tests/health-card.test.cjs
 
       - name: Generate contribution graph and yearly stats
         uses: vn7n24fzkq/github-profile-summary-cards@release
@@ -36,7 +43,7 @@ jobs:
       - name: Create profile folder
         run: mkdir -p profile
 
-      - name: Generate C+ GitHub rank card
+      - name: Generate GitHub rank card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
@@ -52,15 +59,15 @@ jobs:
           script: |
             const login = "michycipher";
             const to = new Date();
-            const from = new Date(to.getFullYear(), 0, 1);
+            const from = new Date(Date.UTC(to.getUTCFullYear(), 0, 1));
             const query = [
               "query($login: String!, $from: DateTime!, $to: DateTime!) {",
               "  user(login: $login) {",
+              "    repositories(privacy: PUBLIC, ownerAffiliations: [OWNER]) { totalCount }",
               "    contributionsCollection(from: $from, to: $to) {",
               "      totalCommitContributions",
               "      totalPullRequestContributions",
               "      totalIssueContributions",
-              "      totalRepositoriesWithContributedCommits",
               "      contributionCalendar { totalContributions }",
               "    }",
               "  }",
@@ -76,10 +83,12 @@ jobs:
             const commits = contributions.totalCommitContributions;
             const pullRequests = contributions.totalPullRequestContributions;
             const issues = contributions.totalIssueContributions;
-            // GitHub's public profile currently reports 73 public repositories.
-            // Keep the health card aligned with that public-facing count while the
-            // activity metrics continue to refresh from GitHub automatically.
-            const repos = 73;
+            const repos = data.user.repositories.totalCount;
+            for (const value of [totalContributions, commits, pullRequests, issues, repos]) {
+              if (!Number.isSafeInteger(value) || value < 0) {
+                throw new Error("GitHub returned an invalid activity count; preserving the previous card.");
+              }
+            }
             const clamp = (value, max) => Math.min(value / max, 1);
             const score = Math.round(100 * (
               clamp(totalContributions, 1500) * 0.50 +
@@ -93,19 +102,20 @@ jobs:
             const svg = [
               "<svg xmlns='http://www.w3.org/2000/svg' width='560' height='260' viewBox='0 0 560 260' role='img' aria-labelledby='title desc'>",
               "<title id='title'>GitHub activity health grade " + esc(grade) + "</title>",
-              "<desc id='desc'>Automated activity grade based on GitHub contributions, commits, pull requests, and public repositories in the current year.</desc>",
+              "<desc id='desc'>Custom activity grade based on year-to-date GitHub contributions, commits and pull requests, plus the current public repository count.</desc>",
               "<rect x='1' y='1' width='558' height='258' rx='10' fill='#0D1117' stroke='#30363D'/>",
               "<text x='24' y='34' fill='#8B5CF6' font-family='Segoe UI, Ubuntu, sans-serif' font-size='17' font-weight='600'>GitHub Activity Health</text>",
               row(70, "Contributions (current year)", totalContributions, "#22D3EE"),
               row(104, "Commits (current year)", commits, "#8B5CF6"),
-              row(138, "Pull requests", pullRequests, "#F59E0B"),
-              row(172, "Issues", issues, "#F97316"),
+              row(138, "Pull requests (current year)", pullRequests, "#F59E0B"),
+              row(172, "Issues (current year)", issues, "#F97316"),
               row(206, "Public repositories", repos, "#22C55E"),
               "<circle cx='445' cy='137' r='52' fill='none' stroke='#30233F' stroke-width='8'/>",
-              "<circle cx='445' cy='137' r='52' fill='none' stroke='#EC4899' stroke-width='8' stroke-linecap='round' stroke-dasharray='" + (Math.max(score, 2) * 3.267) + " 400' transform='rotate(-90 445 137)'/>",
+              "<circle cx='445' cy='137' r='52' fill='none' stroke='#EC4899' stroke-width='8' stroke-linecap='round' stroke-dasharray='" + (score / 100 * 2 * Math.PI * 52) + " 400' transform='rotate(-90 445 137)'/>",
               "<text x='445' y='144' fill='#FFFFFF' font-family='Segoe UI, Ubuntu, sans-serif' font-size='24' font-weight='700' text-anchor='middle'>" + esc(grade) + "</text>",
               "<text x='445' y='166' fill='#94A3B8' font-family='Segoe UI, Ubuntu, sans-serif' font-size='10' text-anchor='middle'>" + score + "/100</text>",
               "<text x='445' y='218' fill='#94A3B8' font-family='Segoe UI, Ubuntu, sans-serif' font-size='11' text-anchor='middle'>updated by GitHub Actions</text>",
+              "<text x='24' y='244' fill='#94A3B8' font-family='Segoe UI, Ubuntu, sans-serif' font-size='10'>Updated " + esc(to.toISOString().slice(0, 16).replace("T", " ")) + " UTC</text>",
               "</svg>"
             ].join("");
             require("fs").writeFileSync("profile/health-grade.svg", svg);
@@ -122,8 +132,12 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add profile github-profile-summary-card-output profile-summary-card-output || true
+          git add -- profile profile-summary-card-output
 
-          git commit -m "chore: update GitHub profile stats" || exit 0
+          if git diff --cached --quiet; then
+            echo "Profile stats are already up to date."
+            exit 0
+          fi
+          git commit -m "chore: update GitHub profile stats"
           git pull --rebase origin main
           git push

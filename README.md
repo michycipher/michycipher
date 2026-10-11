@@ -75,7 +75,7 @@ With a strong background in **frontend engineering and mobile development**, and
 </p>
 
 <p align="center">
-  <sub>Health grade is automatically recalculated hourly from current-year GitHub activity by GitHub Actions.</sub>
+  <sub>Health values are fetched from GitHub on an hourly schedule (runs may be delayed). Contributions, commits, pull requests and issues cover the current UTC year; public repositories is the current total. The card shows its last successful refresh. <a href="./profile/HEALTH.md">How the custom grade is calculated</a>.</sub>
 </p>
 
 <p align="center">
