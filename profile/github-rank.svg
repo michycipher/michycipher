@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Michelle Utomi GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 16, Total Commits  : 1050, Total PRs: 169, Total Issues: 13, Contributed to (last year): 15</desc>
+        <desc id="descId">Total Stars Earned: 16, Total Commits  : 1050, Total PRs: 171, Total Issues: 13, Contributed to (last year): 16</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 136.30514080463345;
+        stroke-dashoffset: 135.58894874713656;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >169</text>
+      >171</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >15</text>
+      >16</text>
     </g>
   </g>
     </svg>
